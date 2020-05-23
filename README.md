@@ -22,6 +22,5 @@ This will cause recompilation every 60 seconds.
 ```
 -i     set interval between compilations
 -m     set interval to minutes, default becomes 60 minutes
--h     display this help and exit courses
-
+-h     display the help info
 ```
